@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="github-wallpaper.jpeg" >
+  <img src="github-wallpaper.png" >
 </p>
 <h1 align="center">Hi 👋, I'm Gabriel Freitas</h1>
 <h3 align="center">A passionate data science and data engineering</h3>
